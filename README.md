@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Phaelis.</h1>
-<p align="center">Hello I'm Phaelis, I'm a 15 year old software developer and I live in Turkey.</p>
+<p align="center">Hello I'm Phaelis, I'm a 16 year old software developer and I live in Turkey.</p>
 
 <br />
 
